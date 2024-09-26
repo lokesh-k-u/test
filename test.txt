@@ -7,3 +7,5 @@ three
 1st update after creating the file.
 four
 
+2nd update -- #Git Commit without Stage
+The -a option will automatically stage every changed, already tracked file.
