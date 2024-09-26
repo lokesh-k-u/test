@@ -9,3 +9,6 @@ four
 
 2nd update -- #Git Commit without Stage
 The -a option will automatically stage every changed, already tracked file.
+
+3rd update -- #Open your favourite editor and make some changes.
+five
