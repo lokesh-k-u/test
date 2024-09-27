@@ -22,3 +22,5 @@ five
 Merge Conflict
 Now we can move over to hello-world-images and keep working. Add another image file (img_hello_git.jpg) and change index.html, so it shows it:
 >>>>>>> hello-world-images
+
+making this changes in the git-hub website
