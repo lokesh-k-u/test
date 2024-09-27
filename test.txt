@@ -24,3 +24,5 @@ Now we can move over to hello-world-images and keep working. Add another image f
 >>>>>>> hello-world-images
 
 making this changes in the git-hub website
+
+now im updating about pull.
