@@ -26,3 +26,5 @@ Now we can move over to hello-world-images and keep working. Add another image f
 making this changes in the git-hub website
 
 now im updating about pull.
+
+Let's try making some changes to our local git and pushing them to GitHub.
