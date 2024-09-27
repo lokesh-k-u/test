@@ -28,3 +28,6 @@ making this changes in the git-hub website
 now im updating about pull.
 
 Let's try making some changes to our local git and pushing them to GitHub.
+
+after crating the new branch called new branch on git hub,
+Start working on an existing file in this branch. Click the "test.txt" file and start editing:
